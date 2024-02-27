@@ -6,10 +6,10 @@ This repo demonstrates how to setup GPU environment in your local machine
 
 ## Step1 : Installing the NVIDIA Driver in your machine 
 
->> Go to device manager and check the NVIDIA version <br>
+a. Go to device manager and check the NVIDIA version <br>
 ![image](https://github.com/Tejanikhil/GPU-setup/assets/102232692/69748bb8-9f75-4110-9f84-fbcd6823479c)<br>
->> Go to the official page of NVIDIA for driver installation https://www.nvidia.com/download/index.aspx <br>
->> Select the appropriate hardware based on the nvidia version <br>
+b. Go to the official page of NVIDIA for driver installation https://www.nvidia.com/download/index.aspx <br>
+c. Select the appropriate hardware based on the nvidia version <br>
 ![image](https://github.com/Tejanikhil/GPU-setup/assets/102232692/c2324fae-0752-48d2-8ec2-497567e79666)<br>
 
 ## Step2 : Installing CUDA Toolkit
