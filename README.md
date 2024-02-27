@@ -33,9 +33,14 @@ c. Select the appropriate hardware based on the NVIDIA version.
 - Select the appropriate versions of cuDNN based on the NVIDIA version.
   
 ![cuDNN Installation](https://github.com/Tejanikhil/GPU-setup/assets/102232692/5c3b6523-6fc5-4101-8427-1e4b0fc0eb4f)
-- Once installed, copy the files and paste them into the CUDA_HOME directory.
-  
+
+- It install a zip file named `cudnn-windows-x86_64-9.0.0.312_cuda12-archive`
+
 ![cuDNN Files](https://github.com/Tejanikhil/GPU-setup/assets/102232692/8ccb7588-90dd-49ed-869f-bcece2a5fb30)
+
+- Once installed, copy the files and paste them into the CUDA_HOME directory as shown.
+  
+![image](https://github.com/Tejanikhil/GPU-setup/assets/102232692/577d9259-7117-45c5-a7e1-eefeb6afe92b)
 
 **Note**: It may ask for replacing the files, click "OK".
 
